@@ -10,8 +10,7 @@ spring:
         git:
           uri: https://github.com/ahxingczx/microservice.git
           search-paths: /src/main/resources/config
-          #token: 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
-          #0604  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
+
           username: ahxingczx
-          password: Czx136504
+          password: xxxx
 
