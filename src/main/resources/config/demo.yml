@@ -3,4 +3,5 @@ spring:
     name: demo
 server:
   port: 11002
-#test 1
+data:
+  env: testGithub
