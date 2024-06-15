@@ -14,5 +14,3 @@ spring:
           username: ahxingczx
           password: Czx-xxxxxx
 
-data:
-  env: testGit
